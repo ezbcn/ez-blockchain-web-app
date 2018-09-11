@@ -12,6 +12,9 @@
   },
   "author": "",
   "license": "ISC",
+  "engines": {
+    "node": "9.2.1"
+  }
   "bugs": {
     "url": "https://github.com/ezbcn/ez-blockchain-web-app/issues"
   },
